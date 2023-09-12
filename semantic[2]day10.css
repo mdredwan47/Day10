@@ -1,0 +1,89 @@
+body{
+    background-color:aqua;
+}
+.container{
+             background-color:gold;
+            border: 7px purple;
+}
+.Non_semantic_header{
+    background-color:red;
+    border: 5px solid blueviolet;
+}
+.Navber{
+    color:rgb(243, 247, 243);
+    
+    padding: 5px;
+}
+.text{
+    padding: 5px;
+    color: black;
+    font-size: 30px;
+}
+
+.Menu{
+   padding: 5px;
+    background-color: red;
+    border: 5px solid green;
+}
+
+.article{
+    padding: 5px;
+    font-size: 20px;
+    background-color: blue;
+    border: 10px solid black;
+}
+
+
+.blog1{
+    padding: 3px;
+}
+.blog2{
+    padding: 3px;
+}
+.blog3{
+    padding: 3px;
+}
+
+
+.footer{
+    background-color: lightcoral;
+    padding: 5px;
+}
+
+
+ header{
+    background-color:red;
+   border: 5px solid black;
+}
+nav{
+    color: white;
+    background: green;
+    padding: 5px;
+}
+
+main{
+    padding: 5px;
+    background-color:red;
+    border: 5px solid yellow;
+}
+article{
+    padding: 5px;
+    border: 5px solid black;
+    font-weight:600;
+    font-size: 30px;
+    height: 400px;
+    color: blue;
+    margin-bottom: 30px;
+}
+section{
+    border: 5px solid green;
+    margin-bottom: 30px;
+    padding: 7px;
+}
+footer{
+    padding: 7px;
+    color :black;
+    background-color:green;
+    height: 40px;
+
+} 
